@@ -1,0 +1,13 @@
+{
+  "name": "LangchainJs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@langchain/core": "^0.3.62",
+    "@langchain/google-genai": "^0.2.14",
+    "dotenv": "^17.2.0",
+    "langchain": "^0.3.29",
+    "zod": "^4.0.5"
+  }
+}
